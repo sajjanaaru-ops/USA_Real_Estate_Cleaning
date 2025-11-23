@@ -48,3 +48,8 @@ The original raw data file (`realtor-data.csv` - approx. 200MB) is too large for
 The cleaning process resulted in a feature-rich, fully numeric DataFrame ready for advanced regression modeling.
 
 * **Zero Missing Values:** All target columns (`price`, `house_size`, `acre_lot`, `bed`, `bath`) now contain zero null values.
+*
+*
+* [View Notebook in NBViewer for best experience]
+* https://nbviewer.org/github/sajjanaaru-ops/USA_Real_Estate_cleaning/blob/main/realtor_data_cleaning.ipynb
+* 

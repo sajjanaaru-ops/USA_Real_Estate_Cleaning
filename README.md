@@ -37,6 +37,11 @@ The core of the process focused on maximizing data integrity while ensuring the 
 4.  **Final Cleanup:** Applied the global median/mode as a final fallback to eliminate all remaining stubborn `NaN` values that belonged to fully sparse groups.
 
 ---
+## Data Source
+
+The original raw data file (`realtor-data.csv` - approx. 200MB) is too large for standard GitHub hosting. You can download the dataset directly from the original source here:
+
+[USA Real Estate Dataset - Kaggle Link](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset)
 
 ## 3. Result and Validation
 
